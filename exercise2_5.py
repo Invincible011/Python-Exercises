@@ -14,8 +14,9 @@ def get_grade():
         return()
     except:
         return('Please enter a number')
-    '''
+kjkjkjkjkjkj
 
+    '''
     if (score >= 0.9) and (score <= 0.99):
         return f'with {score} score.\nYour Grade = A'
     elif (score >= 0.8) and (score <= 0.89):
